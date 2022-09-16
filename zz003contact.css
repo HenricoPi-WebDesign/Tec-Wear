@@ -31,7 +31,7 @@
 nav{
 	flex: 1;
 	text-align: right;
-	box-sizing: border-box;
+	box-sizing: border;
 }
 
 nav ul li{
