@@ -5,7 +5,6 @@
 	box-sizing: border-box;
 }
 
-
 .navbar{
 	height: 12%;
 	display: flex;
@@ -16,7 +15,6 @@
 	box-sizing: border-box;
 	background-color: #000;
 }
-
 
 .logo{
 	width: 110px;
