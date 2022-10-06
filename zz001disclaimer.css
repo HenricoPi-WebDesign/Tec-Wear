@@ -6,7 +6,6 @@
 	font-family: 'poppins', sans-serif;
 }
 
-
 body{
 	width: 99%;
 	height: 99vh;
@@ -16,7 +15,6 @@ body{
 
 	color:white;
 }
-
 
 .wrapper{
 	margin-right: auto;
@@ -29,7 +27,6 @@ padding-left: 10px;
 
 text-align: center;
 }
-
 
 h1{
 	font: caption;
